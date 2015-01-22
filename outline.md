@@ -1,6 +1,6 @@
 # Title
 
-by Authors
+by Authors me, him and her
 
 ## Overview
 
