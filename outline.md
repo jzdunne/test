@@ -4,13 +4,13 @@ by Authors
 
 ## Overview
 
+This is an overview
+
 ## Key points
 
 *one
-*two
+*two and a bit
 *three
 
 ## References 
-
-* reference 1
 
